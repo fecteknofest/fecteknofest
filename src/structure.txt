@@ -1,0 +1,19 @@
+src/
+  ├── components/
+  │   ├── Navbar.js
+  │   ├── Footer.js
+  │   ├── StatCard.js
+  │   ├── ProjectCard.js
+  │   ├── TeamMemberCard.js
+  │   └── SponsorCard.js
+  ├── pages/
+  │   ├── Home.js
+  │   ├── About.js
+  │   ├── Projects.js
+  │   ├── ProjectDetail.js
+  │   ├── Gallery.js
+  │   ├── Sponsors.js
+  │   ├── Achievements.js
+  │   └── JoinForm.js
+  ├── App.js
+  └── index.js 

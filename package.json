@@ -1,0 +1,6 @@
+{
+  "homepage": "https://fecteknofest.github.io/fecteknofest",    
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
